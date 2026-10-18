@@ -1,0 +1,16 @@
+[
+  {
+    "code": "CBD200",
+    "type": "free_delivery",
+    "kind": "free_delivery",
+    "value": 0.0,
+    "minimumSubtotal": 3000.0,
+    "maximumDiscount": null,
+    "startsAt": "2026-10-18T13:12:00+00:00",
+    "endsAt": "2026-10-19T13:12:00+00:00",
+    "usageLimit": 1,
+    "usageCount": 0,
+    "terms": "Your Bag should contain products worth more than 3000 BDT.",
+    "active": true
+  }
+]

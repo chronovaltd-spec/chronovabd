@@ -1,0 +1,39 @@
+[
+  {
+    "id": "ROL288",
+    "name": "ROLEX 199",
+    "brand": "Chronova",
+    "category": "Classic",
+    "price": 3200.0,
+    "compareAt": 2850.0,
+    "badge": null,
+    "tone": "#ffffff",
+    "dial": "#850000",
+    "movement": "ROLEX",
+    "case": "Included in the Order",
+    "strap": "Included",
+    "image": "/images/products/studio-watch-04.png",
+    "images": [
+      "/images/products/studio-watch-04.png",
+      "/images/products/studio-watch-05.png",
+      "/images/products/studio-watch-07.png"
+    ],
+    "premiumBoxes": [
+      {
+        "id": "1",
+        "name": "INFO GICU OFFICIAL",
+        "heading": "Add A Premium Box With IT",
+        "description": "HELLO WORD",
+        "price": 670.0,
+        "images": [
+          "/images/premium-boxes/images.jfif",
+          "/images/premium-boxes/1-Wolf-708041-Green-10-PC-Watch-Box-600x600-1_UtGwZbA.jpg"
+        ]
+      }
+    ],
+    "description": "DWEA",
+    "inStock": true,
+    "popupFeatured": true,
+    "previewOnly": false
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "concept-northstar",
+    "src": "/images/products/chronova-concept-northstar.jpg",
+    "imageAlt": "Unbranded navy-dial stainless steel mesh watch on a warm stone background",
+    "eyebrow": "DETAILS, NOT DISTRACTIONS",
+    "title": "Choose your",
+    "emphasis": "everyday.",
+    "body": "A fictional Chronova concept collection, shown here as a design preview.",
+    "caption": "Original, unbranded concept photography",
+    "imageCaption": "NORTHSTAR · CONCEPT PREVIEW",
+    "primaryLabel": "Explore the collection",
+    "primaryHref": "/shop",
+    "secondaryLabel": "Our story",
+    "secondaryHref": "/about"
+  },
+  {
+    "id": "concept-meridian",
+    "src": "/images/products/chronova-concept-meridian.jpg",
+    "imageAlt": "Unbranded rectangular silver dress watch with an ivory dial and brown leather strap",
+    "eyebrow": "A CLASSIC, REIMAGINED",
+    "title": "Time, made",
+    "emphasis": "personal.",
+    "body": "Considered shapes and warm materials for the moments that make a day your own.",
+    "caption": "A fictional design study for Chronova BD",
+    "imageCaption": "MERIDIAN · CONCEPT PREVIEW",
+    "primaryLabel": "View the watches",
+    "primaryHref": "/shop",
+    "secondaryLabel": "Read our story",
+    "secondaryHref": "/about"
+  },
+  {
+    "id": "concept-solstice",
+    "src": "/images/products/chronova-concept-solstice.jpg",
+    "imageAlt": "Unbranded black chronograph-style sport watch with champagne-gold accents",
+    "eyebrow": "MADE TO MOVE",
+    "title": "Keep pace",
+    "emphasis": "with your day.",
+    "body": "An original sport-watch concept with a dark dial and quiet metallic details.",
+    "caption": "Generated concept imagery · not a final product photo",
+    "imageCaption": "SOLSTICE · CONCEPT PREVIEW",
+    "primaryLabel": "Discover the collection",
+    "primaryHref": "/shop",
+    "secondaryLabel": "Get in touch",
+    "secondaryHref": "/contact"
+  }
+]
